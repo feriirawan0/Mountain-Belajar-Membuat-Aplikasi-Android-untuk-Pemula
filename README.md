@@ -12,7 +12,7 @@ Aplikasi daftar gunung - Belajar Membuat Aplikasi Android untuk Pemula
       </thead>
       <tbody>
         <tr>
-          <td><img src=""/></td>
+          <td><img src="splash_screen.png" width="240"/></td>
           <td><img src="./img/home.png"/></td>
           <td><img src="./img/About.png"/></td>
           <td><img src="./img/Detail.png"/></td>
