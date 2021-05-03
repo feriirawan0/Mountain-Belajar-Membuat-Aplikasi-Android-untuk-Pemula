@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mountain App</string>
+    <string name="mountain_name">Nama Gunung</string>
+    <string name="detail">Detail</string>
+    <string name="Favorite">Favorite</string>
+    <string name="ketinggian">Ketinggian</string>
+    <string name="content_text">Keterangan</string>
+    <string name="informasi">Informasi</string>
+    <string name="display_ketinggian">Ketinggian</string>
+    <string name="contain_ketinggian">Konten Ketinggian</string>
+    <string name="display_letak">Lokasi</string>
+    <string name="contain_letak">Konten Lokasi</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+    <string name="profile_name">Feri Irawan</string>
+    <string name="profile_email">feryirawan0305@gmail.com</string>
+    <string name="OFF_Favorite">OFF Favorite</string>
+</resources>
