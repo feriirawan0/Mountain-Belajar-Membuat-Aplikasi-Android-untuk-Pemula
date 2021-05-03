@@ -12,11 +12,11 @@ Aplikasi daftar gunung - Belajar Membuat Aplikasi Android untuk Pemula
       </thead>
       <tbody>
         <tr>
-          <td><img src="./img/splash screen.png" alt="splashscreen.png" /></td>
-          <td><img src="./img/home.png" alt="home.png" /></td>
-          <td><img src="./img/About.png" alt="about.png" /></td>
-          <td><img src="./img/Detail.png" alt="detail.png" /></td>
-          <td><img src="./img/share.png" alt="share.png" /></td>
+          <td><img src=""/></td>
+          <td><img src="./img/home.png"/></td>
+          <td><img src="./img/About.png"/></td>
+          <td><img src="./img/Detail.png"/></td>
+          <td><img src="./img/share.png"/></td>
         </tr>
       </tbody>
     </table>
