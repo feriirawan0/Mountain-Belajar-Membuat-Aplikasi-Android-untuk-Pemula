@@ -4,19 +4,35 @@ Aplikasi daftar gunung - Belajar Membuat Aplikasi Android untuk Pemula
       <thead>
         <tr>
           <th>Splash Screen</th>
-          <th>Home</th>
-          <th>About</th>
-          <th>Detail</th>
-          <th>Share</th>
         </tr>
+         <tr>
+             <th>Home</th>
+          </tr>
+           <tr>
+             <th>About</th>
+          </tr>
+          <tr>
+             <th>Detail</th>
+          </tr>
+           <tr>
+              <th>Share</th>
+          </tr>
       </thead>
       <tbody>
         <tr>
           <td><img src="splash_screen.png"/></td>
-          <td><img src="home.png"/></td>
-          <td><img src="about.png"/></td>
-          <td><img src="detail.png"/></td>
-          <td><img src="share.png"/></td>
         </tr>
+         <tr>
+          <td><img src="home.png"/></td>
+         </tr>
+          <tr>
+              <td><img src="about.png"/></td>
+          </tr>
+          <tr>
+              <td><img src="detail.png"/></td>
+         </tr>
+          <tr>
+              <td><img src="share.png"/></td>
+          </tr>
       </tbody>
     </table>
